@@ -175,8 +175,8 @@ export default function HomeSection() {
                 <div className="bg-slate-950 p-4 border border-slate-800/80 rounded-lg text-[11px] leading-relaxed overflow-x-auto text-slate-400">
                   <p className="text-emerald-400">{`{`}</p>
                   <p className="pl-4">"identity": "{developerProfile.name}",</p>
-                  <p className="pl-4">"focus": "Full-Stack & Intelligent Systems",</p>
-                  <p className="pl-4">"status": "Final Year - B.Tech CSE",</p>
+                  <p className="pl-4">"focus": "Data Scientist & AI/ML",</p>
+                  <p className="pl-4">"status": "Third Year - B.Tech CSE",</p>
                   <p className="pl-4">"institution": "{developerProfile.institution}",</p>
                   <p className="pl-4">"interests": ["Compilers", "Applied LLMs", "UI Engineering"]</p>
                   <p className="text-emerald-400">{`}`}</p>
@@ -491,7 +491,7 @@ export default function HomeSection() {
               <div className="font-mono text-[10px] text-slate-500">
                 {contactSubmitted ? (
                   <span className="text-emerald-400 flex items-center gap-1.5">
-                    <CheckCircle2 className="h-4 w-4" /> Message compiled & queued successfully! <br /> "Check spam folder"
+                    <CheckCircle2 className="h-4 w-4" /> Message compiled & queued successfully! <br /> "Check your spam folder"
                   </span>
                 ) : (
                   <span>Status: Ready to transmit</span>
