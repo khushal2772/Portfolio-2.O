@@ -188,7 +188,7 @@ export const projectsData: Project[] = [
       "Fluid page layout transition sheets powered by motion transitions",
       "Fully responsive touch targets styled for both mobile and widescreen grids"
     ],
-    githubUrl: "https://github.com/khushal2772/portfolio-theme-engine",
+    githubUrl: "https://github.com/khushal2772/Portfolio-2.O.git",
     demoUrl: "#"
   }
 ];
