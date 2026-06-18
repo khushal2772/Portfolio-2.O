@@ -1,0 +1,97 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /MediaBox [0 0 595 842] /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1200 >>
+stream
+BT
+/F2 22 Tf
+50 780 Td
+(KHUSHAL SINGH) Tj
+0 -25 Td
+/F1 12 Tf
+(B.Tech Computer Science & Engineering | Arya College Of Engineering) Tj
+0 -18 Td
+(Email: khushalsingh9b14@gmail.com | Jaipur, India | CGPA: 8.13 / 10) Tj
+0 -25 Td
+/F2 14 Tf
+(EDUCATION) Tj
+0 -18 Td
+/F1 11 Tf
+(Arya College Of Engineering - B.Tech CSE (Expected 2028)) Tj
+0 -15 Td
+(CGPA: 8.13 / 10.00 | Data Structures, DBMS, Operating Systems, Algorithm Design) Tj
+0 -25 Td
+/F2 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -18 Td
+/F1 11 Tf
+(Languages: Python, TypeScript, JavaScript (ES6+), C, C++, SQL) Tj
+0 -15 Td
+(Frontend: React, Tailwind CSS, Recharts) Tj
+0 -15 Td
+(Data Science & Tools: Pandas, NumPy, Scikit-learn, Power BI, Excel, Git) Tj
+0 -25 Td
+/F2 14 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+0 -18 Td
+/F2 11 Tf
+(Grras - Data Science Intern | Jaipur, India) Tj
+/F1 11 Tf
+180 0 Td
+(May 2026 - July 2026) Tj
+-180 -15 Td
+(- Performed EDA, cleaning, and preprocessing on datasets using Pandas & NumPy) Tj
+0 -15 Td
+(- Extracted and analyzed large datasets using SQL queries for reporting) Tj
+0 -15 Td
+(- Built interactive Power BI dashboards to identify key performance metrics) Tj
+0 -15 Td
+(- Implemented Scikit-learn regression models for crop yield prediction) Tj
+0 -25 Td
+/F2 14 Tf
+(SELECTED PROJECTS) Tj
+0 -18 Td
+/F2 11 Tf
+(Predictive Crop Analytics & Yield Forecaster) Tj
+/F1 11 Tf
+250 0 Td
+(Python, Scikit-learn, React) Tj
+-250 -15 Td
+(- Agritech ML suite forecasting yields with ensemble regression & dynamic charts) Tj
+0 -18 Td
+/F2 11 Tf
+(SQL Analyzer & Execution Pathfinder) Tj
+/F1 11 Tf
+250 0 Td
+(Python, SQL, Flask) Tj
+-250 -15 Td
+(- Lexical query visualizer projecting bottleneck points and optimization gains) Tj
+0 -25 Td
+/F2 14 Tf
+(ACHIEVEMENTS) Tj
+0 -18 Td
+/F1 11 Tf
+(- Ranked Top 2 in College Hackathon out of 52 teams) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000305 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1560
+%%EOF

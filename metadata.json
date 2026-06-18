@@ -1,0 +1,6 @@
+{
+  "name": "DevPortfolio",
+  "description": "A high-performance, polished developer portfolio showcasing engineering works, academic journey, professional experience, and technical projects of a B.Tech Computer Science Engineering student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
